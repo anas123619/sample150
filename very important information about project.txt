@@ -1,0 +1,12 @@
+*open .env file located at root and update database, username and password:
+DB_DATABASE=ecom150
+DB_USERNAME=root
+DB_PASSWORD=
+
+*run project with below Laravel artisan command :-
+php artisan serve:
+
+Front Link :- http://127.0.0.1:8000/
+Admin Link :- http://127.0.0.1:8000/admin
+Username :- admin
+Password :- 123456
